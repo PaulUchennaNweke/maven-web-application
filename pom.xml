@@ -89,13 +89,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.153.50.153:8081/repository/maven-web-releases/</url>
+	      <url>http://54.210.87.131:8081/repository/kuda-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Lanhdmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.153.50.153:8081/repository/maven-web.snapshot/</url>
+	      <url>http://54.210.87.131:8081/repository/kuda-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
